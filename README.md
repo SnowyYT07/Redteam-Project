@@ -27,14 +27,14 @@ Level 1 | Basic | Done
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 2 | Essential | Done
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
-[11] | Simple port scanner | :x:
+[11] | Simple port scanner | :heavy_check_mark:
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | :x:
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
 [14] | Simple Web Directory brute-forcer (Threaded) | :x:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
-[17] | FTP Login bruteforce tool | :x:
-[18] | SSH Login bruteforce tool | :x:
+[17] | FTP Login bruteforce tool | :heavy_check_mark:
+[18] | SSH Login bruteforce tool | :heavy_check_mark:
 [19] | FTP User footprint | :x:
 [20] | MYSQL User footprint | :x:
 [21] | Simple Google Bot for web scan | :x:
@@ -70,7 +70,7 @@ Level 4 | Data analysis, payloads and more networking | Done
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [45] | Packet Data analysis | :x:
 [46] | Packet image analysis with OpenCV | :x:
-[47] | Develop a hexdump tool | :x:
+[47] | Develop a hexdump tool | :heavy_check_mark:
 [48] | Payload that moves the mouse cursor | :x:
 [49] | Vigenère Cipher | :x:
 [50] | Payload that starts automatically using Windows Regedit | :x:
